@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1461843eff19f854c87a0b4d6390dda6, type: 3}
+  m_Name: Sizuka Unit Animation Trait
+  m_EditorClassIdentifier: 
+  MaxStack: 1
+  _runtimeController: {fileID: 9100000, guid: a0d366e27209eef44bc4f7f9eb6216c8, type: 2}
+  _mirrorLeft: 1

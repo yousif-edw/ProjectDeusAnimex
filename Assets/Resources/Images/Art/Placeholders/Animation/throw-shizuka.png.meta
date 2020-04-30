@@ -1,0 +1,955 @@
+fileFormatVersion: 2
+guid: 09a48ba8aae7d1b4f8872d49d6bb3d7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8081880016996528626
+    second: throw-shizuka_0
+  - first:
+      213: -1561347183948272705
+    second: throw-shizuka_1
+  - first:
+      213: -1810048066438564211
+    second: throw-shizuka_2
+  - first:
+      213: -4078062868949332606
+    second: throw-shizuka_3
+  - first:
+      213: -64717600811143708
+    second: throw-shizuka_4
+  - first:
+      213: -7560039655669818370
+    second: throw-shizuka_5
+  - first:
+      213: 5464459908752479622
+    second: throw-shizuka_6
+  - first:
+      213: 9149711596292322712
+    second: throw-shizuka_7
+  - first:
+      213: -7568810713731238564
+    second: throw-shizuka_8
+  - first:
+      213: -7982773262930313159
+    second: throw-shizuka_9
+  - first:
+      213: -8752854991274103643
+    second: throw-shizuka_10
+  - first:
+      213: 6099147590030194928
+    second: throw-shizuka_11
+  - first:
+      213: -3074709524265775733
+    second: throw-shizuka_12
+  - first:
+      213: -3715839735201201684
+    second: throw-shizuka_13
+  - first:
+      213: -6299889728811793748
+    second: throw-shizuka_14
+  - first:
+      213: 7436153303617326202
+    second: throw-shizuka_15
+  - first:
+      213: 190553172426712947
+    second: throw-shizuka_16
+  - first:
+      213: -1292404298717345304
+    second: throw-shizuka_17
+  - first:
+      213: 5122872988308304367
+    second: throw-shizuka_18
+  - first:
+      213: 3701213243098398067
+    second: throw-shizuka_19
+  - first:
+      213: 8375364166695061481
+    second: throw-shizuka_20
+  - first:
+      213: 1318857622778628413
+    second: throw-shizuka_21
+  - first:
+      213: 433387768719434218
+    second: throw-shizuka_22
+  - first:
+      213: 5614952513144413546
+    second: throw-shizuka_23
+  - first:
+      213: -7073048583785031496
+    second: throw-shizuka_24
+  - first:
+      213: 5874363165476530350
+    second: throw-shizuka_25
+  - first:
+      213: 6294341480124003185
+    second: throw-shizuka_26
+  - first:
+      213: -3864056115171961782
+    second: throw-shizuka_27
+  - first:
+      213: 8240484818344241427
+    second: throw-shizuka_28
+  - first:
+      213: 6393463754866915156
+    second: throw-shizuka_29
+  - first:
+      213: -210637254725033580
+    second: throw-shizuka_30
+  - first:
+      213: 6222396400321329285
+    second: throw-shizuka_31
+  - first:
+      213: -4364423464475025707
+    second: throw-shizuka_32
+  - first:
+      213: -5642781585256419633
+    second: throw-shizuka_33
+  - first:
+      213: -3713298584508262626
+    second: throw-shizuka_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 31
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: throw-shizuka_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 226
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a47ed18a150e148ad24069a5be2da8
+      internalID: -8081880016996528626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 195
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36bffa6846b9f84f83a61686969bdfd
+      internalID: -1561347183948272705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 160
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a41504827a1b941aa8a7c34087e5b3
+      internalID: -1810048066438564211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 128
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af8855b11e21b445ae0dc3ba5d8d9e6
+      internalID: -4078062868949332606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 99
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d6d28e03cd9b340b7091bbe3d1ced4
+      internalID: -64717600811143708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 64
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7537289bd03085646b14c9914e30bce8
+      internalID: -7560039655669818370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 32
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c455375e04ff946aef8c7b433a5c68
+      internalID: 5464459908752479622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 97
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52184135bfe0d5f488d603d3f28def53
+      internalID: 9149711596292322712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 65
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c073faf8a62736418fe9e782cd616f2
+      internalID: -7568810713731238564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 33
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5988d9e2ee5b24940a7292e3a7a89a2c
+      internalID: -7982773262930313159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e31ada892e4254b8c8728242d25f33
+      internalID: -8752854991274103643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772f33cc95c9b6442bb556c994e626b3
+      internalID: 6099147590030194928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 32
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962d284e0a72276488287970504729cd
+      internalID: -3074709524265775733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 98
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc02784720a666649a34f83bee5b3088
+      internalID: -3715839735201201684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 65
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f896a2063a6a938438152a142cae0fea
+      internalID: -6299889728811793748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 33
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93157c8f8a38e174da65dba317ce5eef
+      internalID: 7436153303617326202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 99
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce7addb0c6ba614b8c06437f201a696
+      internalID: 190553172426712947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 64
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069640371916c1c40ae5c287f45697b5
+      internalID: -1292404298717345304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 32
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d55632f836caa429c54016c88c97e7
+      internalID: 5122872988308304367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 96
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244bf047a1e07544a92b3050257f2a3f
+      internalID: 3701213243098398067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14377a606755fa845888d8c993255e6a
+      internalID: 8375364166695061481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 32
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c4253abfa2eaa47919c993e352e55b
+      internalID: 1318857622778628413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 99
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583d9acae9454df4089ac1bccac2f1f0
+      internalID: 433387768719434218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 64
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fde4011c8fdf144b9b8a7089ae78ca5
+      internalID: 5614952513144413546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 32
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63656ecac76acbb4db5eb063aa96c131
+      internalID: -7073048583785031496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 97
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757614dc94cd07b4d9e46699bebe61fa
+      internalID: 5874363165476530350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_26
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 65
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c89d6552dd0f5409183ddf78711bca
+      internalID: 6294341480124003185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_27
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 33
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60901ed9aacc28b43b318cd8ae46a957
+      internalID: -3864056115171961782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 226
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17779040e248284289802b43758095b
+      internalID: 8240484818344241427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 226
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5266a0bc0256da4da034afa0a47a1e4
+      internalID: 6393463754866915156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 226
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecb4434c160d9b40b54292382f37b38
+      internalID: -210637254725033580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 226
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793a675c45247024e82fdec871fb1198
+      internalID: 6222396400321329285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_32
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 226
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b41ae79a93d64a44be6d8490fdc1564
+      internalID: -4364423464475025707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_33
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 226
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cd16d356aaa6a4c8ddedcbcec569d2
+      internalID: -5642781585256419633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: throw-shizuka_34
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 226
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6e8665d049aeb42891b5b7fb9adf21
+      internalID: -3713298584508262626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

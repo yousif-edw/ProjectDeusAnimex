@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebba5a8d5d23d6d428194883a614a41f, type: 3}
+  m_Name: Player Aggro Hitbox Trait
+  m_EditorClassIdentifier: 
+  MaxStack: 1
+  _hitbox: {fileID: 11400000, guid: 0666d3bbac6e4094dac3fc8f273566d7, type: 2}
+  _collisionLayer: {fileID: 11400000, guid: f3683ece0c72b6b47bd4589e8586a5b5, type: 2}
+  _requiredTraits: []
+  _applyToTargetOnEnter: []
+  _applyToTargetOnExit: []
+  _applyToSelfOnEnter: []
+  _applyToSelfOnExit: []

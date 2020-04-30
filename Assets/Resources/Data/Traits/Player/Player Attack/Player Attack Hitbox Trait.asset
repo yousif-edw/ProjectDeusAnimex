@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebba5a8d5d23d6d428194883a614a41f, type: 3}
+  m_Name: Player Attack Hitbox Trait
+  m_EditorClassIdentifier: 
+  MaxStack: 1
+  _hitbox: {fileID: 11400000, guid: 2ae05374f87268d438d78ba5e2e79b60, type: 2}
+  _collisionLayer: {fileID: 11400000, guid: ef8d55828577c5d4eadeb2851e790804, type: 2}
+  _requiredTraits:
+  - {fileID: 11400000, guid: 7a5aee137694ded41940c0c8061bbf6f, type: 2}
+  _applyToTargetOnEnter:
+  - {fileID: 11400000, guid: e1278c2d890e5b34d9a2cf7dca2de3bd, type: 2}
+  _applyToTargetOnExit: []
+  _applyToSelfOnEnter: []
+  _applyToSelfOnExit: []
